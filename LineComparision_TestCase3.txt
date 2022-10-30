@@ -1,0 +1,21 @@
+                                       TEST CASE 3
+
+
+Enter the x co-ordinates of the first point of Line 1
+
+-1.8
+Enter the y co-ordinates of the first point of Line 1
+3.4
+Enter the x co-ordinates of the second point of Line 1
+8.9
+Enter the y co-ordinates of the second point of Line 1
+7.4
+Enter the x co-ordinates of the first point of Line 2
+0.0
+Enter the y co-ordinates of the first point of Line 2
+0.0
+Enter the x co-ordinates of the second point of Line 2
+-5.1
+Enter the y co-ordinates of the second point of Line 2
+3.1
+The 1st line is longer than the 2nd line
