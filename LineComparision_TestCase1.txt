@@ -1,0 +1,24 @@
+                                               LINE COMPARISION TEST CASE1
+
+
+Enter the x co-ordinates of the first point of Line 1
+
+1.0
+Enter the y co-ordinates of the first point of Line 1
+1.0
+Enter the x co-ordinates of the second point of Line 1
+3.0
+Enter the y co-ordinates of the second point of Line 1
+3.0
+Enter the x co-ordinates of the first point of Line 2
+2.0
+Enter the y co-ordinates of the first point of Line 2
+2.0
+Enter the x co-ordinates of the second point of Line 2
+4.0
+Enter the y co-ordinates of the second point of Line 2
+4.0
+Both the lines are eqaully long
+Disconnected from the target VM, address: '127.0.0.1:62250', transport: 'socket'
+
+Process finished with exit code 0
